@@ -1,0 +1,25 @@
+### macOS
+# Finder metadata
+.DS_Store
+
+# Thumbnails
+._*
+
+# Custom folder icons
+Icon
+
+
+# Volume root files
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+### 이력서 개인정보 (템플릿: docs/resume/private.example/)
+docs/resume/private/
+
+### 이력서 자동화 설계 메모 (로컬 전용)
+docs/resume/automation-plan.md
